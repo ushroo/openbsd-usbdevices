@@ -1,6 +1,9 @@
 # openbsd-usbdevices
 List attached USB devices in a script-parseable format.
 
+    $ git clone https://github.com/ushroo/openbsd-usbdevices.git
+    $ cd openbsd-usbdevices/
+    $ make
     $ ./usbdevices
     uhub0   EHCI root hub (Intel)    
     uhub2   Rate Matching Hub (Intel)
